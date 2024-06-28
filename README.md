@@ -1,2 +1,3 @@
 # Challenge-conversor-de-monedas
-conversor de monedas empleando ExchangeRate-API
+El siguiente programa permite convertir entre sí las diferentes monedas, esta primera versión permite convertir entre las 6 condiciones que existen. En próximas versiones se agregarán más funcionalidades.
+
